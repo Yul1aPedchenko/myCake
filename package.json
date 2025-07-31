@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-   "homepage": "https://yul1apedchenko.github.io/myCake/",
+  "homepage": "https://yul1apedchenko.github.io/myCake/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
